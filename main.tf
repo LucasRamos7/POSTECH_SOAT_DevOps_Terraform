@@ -16,7 +16,7 @@ terraform {
   required_version = ">= 1.1.0"
 
   cloud {
-    organization = "DevopsFiap"
+    organization = "DevopsFiap_Lucas"
 
     workspaces {
       name = "gh-actions"
